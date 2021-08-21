@@ -1,0 +1,12 @@
+mkdir <nome do diretório> - cria um diretório (pasta)
+touch <nome do arquivo> - cria um arquivo
+rm <nome do arquivo> [-r] [-f] - remove um arquivo ou diretório
+ls [-a] [caminho] - lista os arquivos no diretório atual ou em outro
+git init - inicializa o diretório atual como um reposotório git
+git clone <url do repositório> - clona um repositório
+git add <arquivo> - prepara alterações no repositório para serem incluída no controle de versão
+git commit -m <mensagem> - comita(confirma) alterações e as incluem no controle de versão como uma nova versão
+git push <remoto> <branch> - sobe(faz upload) do estado do repositório local para o repositório remoto
+git branch [-d] [-D] - exibe, cria e deleta branches
+git remote [add <remoto> <url do remoto>] - exibe, adiciona e remove vínculos do repositório local com repositórios remotos
+git config [--global] <opção> [valor] - exibe ou altera opções de configuração do git
