@@ -1,0 +1,3 @@
+a. Linus Torvalds. Ele não queria. Inventou contra sua vontade, pois surgiu um que gostava, mas não era open source.
+b. Microsoft. A Microsoft quer centralizar e controlar o desenvolvimento de código.
+c. Sim. Existem interfaces gráficas, web e terminais integrados em aplicações
